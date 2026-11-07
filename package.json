@@ -1,0 +1,9 @@
+{
+  "name": "aurix-storefront",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AURIX glassmorphism storefront preview",
+  "scripts": { "start": "node server.mjs" },
+  "engines": { "node": ">=20" }
+}
+
